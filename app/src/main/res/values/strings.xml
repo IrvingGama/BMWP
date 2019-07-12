@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMWP</string>
+    <string name="btnComenzar">Comenzar</string>
+    <string name="btnMonitoreo">Nuevo monitoreo</string>
+    <string name="btnIndice">¿Qué es el Indice BMWP?</string>
+    <string name="btnDesarrolladores">Desarrolladores</string>
+    <string name="txtMonitoreo">Monitoreo BMWP</string>
+    <string name="txtSeleccion">Proyectos</string>
+    <string name="txtCuerpoAgua">Registrar Cuerpo de Agua</string>
+    <string name="Nombre_Cuerpo_Agua">Nombre del Rio</string>
+    <string name="txt_Cuenca">Cuenca</string>
+    <string name="txt_Provincia">Provincia</string>
+    <string name="txt_Corregimiento">Corregimiento</string>
+    <string name="txt_Orden_Rio">Orden</string>
+    <string name="Fecha">Fecha de muestreo</string>
+    <string name="Go_Colab">Continuar</string>
+    <string name="RegistroColab">Registrar Colaborador</string>
+    <string name="Nom_Colab">Nombre Colaborador</string>
+    <string name="Apellido_Pat_Col">Apellido Paterno</string>
+    <string name="Apellido_Mat_Col">Apellido Materno</string>
+    <string name="Mail_Col">E-mail</string>
+    <string name="Telefono_Cola">Telefono</string>
+    <string name="Guardar_Datos">Guardar</string>
+    <string name="Continue_Col">Continuar</string>
+    <string name="tomar_foto">Cámara</string>
+</resources>
